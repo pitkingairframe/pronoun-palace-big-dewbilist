@@ -1,0 +1,6 @@
+[gd_scene format=3 uid="uid://cmx1itruk0yq8"]
+
+[ext_resource type="Script" uid="uid://cyt1g7goputcv" path="res://mods/big_dewbilist/mod.gd" id="1_c02wd"]
+
+[node name="Mod" type="Node" unique_id=1567430136]
+script = ExtResource("1_c02wd")

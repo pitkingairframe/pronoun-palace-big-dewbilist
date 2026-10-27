@@ -1,0 +1,10 @@
+{
+	"id": "big_dewbilist",
+	"assets_only": true,
+	"packs":[
+		{
+			"path":"big_dewbilist.pck",
+			"override":true
+		}
+	]
+}
